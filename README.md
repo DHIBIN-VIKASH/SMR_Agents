@@ -1,4 +1,5 @@
-# SMR Agents Collection
+# Automates_agents_for_Systematic_reviews
+Accelerate your systematic reviews with AI. This collection of agents automates the transition from raw database exports (PubMed, Scopus, WoS) to a structured evidence table using keyword-based screening and Gemini-powered data extraction.
 
 This repository contains a suite of automated agents designed to streamline the **Systematic Mixed Review (SMR)** workflow. These tools handle deduplication, screening, and data extraction, transforming raw database exports into a structured evidence table.
 

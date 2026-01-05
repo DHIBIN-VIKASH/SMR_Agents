@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Browser Profiles (Contains sensitive data)
+msedge_profile/
+chrome_debug_profile/
+*_profile/
+
+# Logs and Debugging
+*.log
+error_log.txt
+debug.html
+debug_no_plus.png
+
+# Data and Outputs (Best to keep repo clean)
+Articles/
+parsed_articles.json
+screening_results.csv
+extracted_studies.xlsx
+Graded_Responses.xlsx
+*_deduplicated.*
+customizations_log.csv
+requirements_output.txt
+
+# OS-specific
+.DS_Store
+Thumbs.db
